@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Hi, I’m Yugesh.<br>👨‍💻 Web Developer who loves clean, fast websites.<br>🎨 UI/UX Designer into minimal and modern design.<br>🛡️ Cybersecurity enthusiast, exploring CTFs.<br>🚀 Always learning and open to collabs.
+> Hi, I’m Yugesh.<br>
+> Web Developer who loves clean, fast websites.<br>
+> UI/UX Designer into minimal and modern design.<br>
+> Cybersecurity enthusiast, exploring CTFs.<br>
+> Always learning and open to collabs.
 
 
 ## 🌐 Socials:

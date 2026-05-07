@@ -1,10 +1,8 @@
 # 💫 About Me:
-- Hi, I’m Yugesh.<br>
-- Web Developer who loves clean, fast websites.<br>
-- UI/UX Designer into minimal and modern design.<br>
-- Cybersecurity enthusiast, exploring CTFs.<br>
-- Always learning and open to collabs.
 
+- Hi, I’m Yugesh.<br>
+- Product Design | Web Dev | Cybersecurity.<br>
+- Building cool, clean, and useful stuff.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yugeshweb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yugeshweb) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yugeshweb) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yugeshweb) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/yugeshweb) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yugeshweb)

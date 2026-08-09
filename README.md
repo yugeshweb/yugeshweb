@@ -107,11 +107,6 @@ motto:     "ship it, then make it better"
 
 <div align="center">
 
-```
-$ echo "thanks for stopping by"
-> thanks for stopping by
-```
-
 <img src="https://komarev.com/ghpvc/?username=yugeshweb&style=for-the-badge&color=00ff9c&labelColor=0d1117&label=PROFILE+VIEWS" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f29,100:0d1117&height=100&section=footer" width="100%"/>

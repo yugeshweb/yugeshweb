@@ -10,7 +10,7 @@
 $ whoami
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=100&lines=Web-developer;React+%2F+Next.js+%2F+Node+%2F+Vue+%2F+Python;turning+coffee+into+production+deploys;currently+shipping...+always" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=100&lines=Web-developer;Product_Designer" alt="Typing SVG" />
 
 </div>
 

@@ -1,16 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1f29&height=200&section=header&text=Yugesh&fontSize=52&fontColor=00ff9c&fontAlignY=38&desc=&descSize=16&animation=fadeIn" width="100%"/>
-
-</div>
-
-<div align="center">
-
-```
-$ whoami
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=100&lines=Web-developer;Product_Designer" alt="Typing SVG" />
 
 </div>
 

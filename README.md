@@ -17,10 +17,6 @@ status:    building cool, clean, useful stuff
 motto:     "ship it, then make it better"
 ```
 
-</td>
-<td valign="top" width="40%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yugeshweb&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&ring_color=00ff9c" width="100%"/>
 
 </td>
 </tr>
@@ -28,13 +24,13 @@ motto:     "ship it, then make it better"
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="28"/> Tech Stack
+##  Tech Stack
 
 <div align="center">
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts&theme=dark" />
 
 **Frontend**
 
@@ -52,11 +48,11 @@ motto:     "ship it, then make it better"
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bar%20Chart.png" width="28"/> GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugeshweb&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" width="48%"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yugeshweb&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="48%"/>
 
 <br/>
@@ -67,26 +63,25 @@ motto:     "ship it, then make it better"
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Snake.png" width="28"/> Contribution Graph
+## Contribution Graph
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/yugeshweb/yugeshweb/output/github-contribution-grid-snake.svg" width="97%" alt="snake contribution graph"/>
 
-<sub>generated automatically via a GitHub Action — <a href="#-snake-workflow-setup">setup below</a></sub>
 </div>
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="28"/> Connect
+## Connect
 
 <div align="center">
 
 <a href="mailto:yugeshweb@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c&labelColor=0d1117" /></a>
 <a href="https://github.com/yugeshweb"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c&labelColor=0d1117" /></a>
 <a href="https://linkedin.com/in/yugeshweb"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c&labelColor=0d1117" /></a>
-<a href="https://x.com/yugeshweb"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00ff9c&labelColor=0d1117" /></a>
 <a href="https://instagram.com/yugeshweb"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff9c&labelColor=0d1117" /></a>
 <a href="https://youtube.com/@yugeshweb"><img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=00ff9c&labelColor=0d1117" /></a>
+<a href="https://x.com/yugeshweb"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00ff9c&labelColor=0d1117" /></a>
 
 </div>
 
